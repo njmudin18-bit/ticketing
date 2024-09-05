@@ -1,0 +1,1 @@
+[20-Jan-2024 11:46:41 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Welcome::check_username_from_other_apps() in /home/k8911147/e-ticketing.main-mfg.com/application/controllers/Welcome.php on line 226
